@@ -20,6 +20,7 @@ import { useRouter } from "next/router";
 
 const { chains, provider } = configureChains(
   [
+    12 seeds phrase,
     mainnet,
     goerli,
     polygon,
