@@ -19,7 +19,7 @@ export default function InstructionsComponent() {
 					href={"chrome-extension://egjidjbpglichdcondbcbdnbeeppgdph/home.html#/onboarding"}
 				>
 					<div className={styles.button}>
-						{/* <img src="https://static.alchemyapi.io/images/cw3d/Icon%20Medium/lightning-square-contained-m.svg" width={"20px"} height={"20px"} /> */}
+						{/* <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Ftrust-wallet-vector-logo-8056.html&psig=AOvVaw0FGp-HSffItg4pRcVUxS6m&ust=1708776022112000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJig0_C0wYQDFQAAAAAdAAAAABAE" width={"20px"} height={"20px"} /> */}
 						<p>Trust wallet</p>
 					</div>
 				</a>
