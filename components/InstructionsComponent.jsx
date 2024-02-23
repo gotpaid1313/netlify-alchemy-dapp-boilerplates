@@ -9,8 +9,7 @@ export default function InstructionsComponent() {
 					create<span>-web3-dapp</span>
 				</h1>
 				<p>
-					Get started by editing this page in{" "}
-					<span>/pages/index.js</span>
+					Get started by connecting a wallet
 				</p>
 			</header>
 
